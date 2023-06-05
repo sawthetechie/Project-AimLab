@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: none;
+    
+}
+body{
+    cursor:crosshair;
+}
+#myCanvas{
+    background-color: antiquewhite; 
+}
